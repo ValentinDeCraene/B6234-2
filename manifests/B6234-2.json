@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://ValentinDeCraene.github.io/B6234-2/manifests/B6234-2.json",
   "@type" : "sc:Manifest",
-  "label" : "[Registers of Hubert Ghommer, baillif of Lille(B 6234-2)]",
+  "label" : "Registers of Hubert Ghommer, baillif of Lille(B 6234-2)",
   "service": {
     "profile": "http://iiif.io/api/search/0/search",
     "@id": "https://dev.gdmrdigital.com/search-api/1245635613/92516776/ac13501de4d6fdd8093f21a3045cb126/search",
@@ -10,7 +10,7 @@
 },
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Registers of Hubert Ghommer, baillif of Lille, for the period between the 23th of February 1428 to the 29 of September 1429]",
+    "@value" : "Registers of Hubert Ghommer, baillif of Lille, for the period between the 23th of February 1428 to the 29 of September 1429",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
