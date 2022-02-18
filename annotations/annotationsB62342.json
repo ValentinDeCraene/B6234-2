@@ -10,10 +10,10 @@
       "@type" : "oa:Tag",
       "chars" : "Corrections"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Another marginal note that is quite difficult to read. It is correction of the corrections concerning the amount of the taxes that the count can raise over this sale.",
+      "http://dev.llgc.org.uk/sas/full_text" : "Another marginal note that is quite difficult to read. It is a correction of the corrections concerning the amount of the taxes that the count can raise on this sale.",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Another marginal note that is quite difficult to read. It is correction of the corrections concerning the amount of the taxes that the count can raise over this sale.</p>"
+      "chars" : "<p>Another marginal note that is quite difficult to read. It is a correction of the corrections concerning the amount of the taxes that the count can raise on this sale.</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
@@ -88,10 +88,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "The corrections made the reporters at the Chambre des Comptes deal with the name and role of the seller : it \"maistre Jehan de Fremault, eschevin et chanoine de Saint Pierre de Lille\" and not Lotard Fremault.",
+      "http://dev.llgc.org.uk/sas/full_text" : "The corrections made by the reporters at the Chambre des Comptes deal with the name and role of the seller : it \"maistre Jehan de Fremault, eschevin et chanoine de Saint Pierre de Lille\" and not Lotard Fremault.",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>The corrections made the reporters at the Chambre des Comptes deal with the name and role of the seller : it \"maistre Jehan de Fremault, eschevin et chanoine de Saint Pierre de Lille\" and not Lotard Fremault.</p>"
+      "chars" : "<p>The corrections made by the reporters at the Chambre des Comptes deal with the name and role of the seller : it \"maistre Jehan de Fremault, eschevin et chanoine de Saint Pierre de Lille\" and not Lotard Fremault.</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
@@ -133,10 +133,10 @@
       "@type" : "oa:Tag",
       "chars" : "Justice"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "This next subsection, that is also empty, records the taxes that the baillif can raise over the litigant that misuse their right to call for the count's justice.",
+      "http://dev.llgc.org.uk/sas/full_text" : "This next subsection, that is also empty, records the taxes that the baillif can raise on a litigant that misuses its right to call for the count's justice.",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>This next subsection, that is also empty, records the taxes that the baillif can raise over the litigant that misuse their right to call for the count's justice.</p>"
+      "chars" : "<p>This next subsection, that is also empty, records the taxes that the baillif can raise on the litigant that misuses its right to call for the count's justice.</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
@@ -166,10 +166,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "In addition, the corrections provides more details concerning the way this fief is acquired: it was initially a reward given by the count of Flanders to Jehan de Fremault. Indeed the scribe refers to letter made the count, in which this reward is mentionned (\"seloncq et par la manire plus adplain contenue en certaines lettres patentes de mondit seigneur\") . It could interesting to find the letter that is mentionned and to provide a link, however it is not to be found.\nThe later sale this land to Lotard de Fremault.",
+      "http://dev.llgc.org.uk/sas/full_text" : "In addition, the corrections provide more details concerning the way this fief is acquired: it was initially a reward given by the count of Flanders to Jehan de Fremault. Indeed the scribe refers to letter made by the count, in which this reward is mentionned (\"seloncq et par la manire plus adplain contenue en certaines lettres patentes de mondit seigneur\") . It could be interesting to find the letter that is mentionned and to provide a link, however it is not to be found.\nThe later sale this land to Lotard de Fremault.",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>In addition, the corrections provides more details concerning the way this fief is acquired: it was initially a reward given by the count of Flanders to Jehan de Fremault. Indeed the scribe refers to letter made the count, in which this reward is mentionned (\"seloncq et par la manire plus adplain contenue en certaines lettres patentes de mondit seigneur\") . It could interesting to find the letter that is mentionned and to provide a link, however it is not to be found.</p>\n<p>The later sale this land to Lotard de Fremault.</p>"
+      "chars" : "<p>In addition, the corrections provide more details concerning the way this fief is acquired: it was initially a reward given by the count of Flanders to Jehan de Fremault. Indeed the scribe refers to letter made by the count, in which this reward is mentionned (\"seloncq et par la manire plus adplain contenue en certaines lettres patentes de mondit seigneur\") . It could be interesting to find the letter that is mentionned and to provide a link, however it is not to be found.</p>\n<p>The later sale this land to Lotard de Fremault.</p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Income",
       "@type" : "oa:Tag",
